@@ -1,30 +1,25 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I’m **Dharmil Shah**, and I see data as more than numbers — it’s a medium for stories waiting to be told.
+
+I enjoy transforming raw numbers into visual narratives that spark curiosity and make insights stick. To me, a great chart isn’t just about clarity, it’s about making data feel alive and approachable.
+
+Every visualization I build is a chance to turn information into impact — and that’s the kind of storytelling I love. 📊
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I joined the course with the expectation of sharpening my data viz edge. We love the stories good chart tells, but often fail to account for the thought behind formulating such chart/graphs in the first place. 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. How to choose the right chart type for different kinds of data and audiences.
+2. Best practices for using color, scale, and labels to make visuals clear and impactful.
+3. Ways to best optimize the visual representation of data cutting any redundant elements
+4. How can one dataset give different vizs. to serve the needs of different stakeholders.
+5. Getting hands-on with Tableau
+6. Making an appealing portfolio by the end of class that communicates a story
 
 # Portfolio
 
