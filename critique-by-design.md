@@ -4,8 +4,7 @@
 
 *This document serves as a step-by-step journal of my process, reflecting on critiques, sketches, redesign choices, and the final visualization. The tone is reflective, highlighting what I learned at each stage.*
 
-# Title
-The Rise and Rise of LLMs
+# Title - The Rise and Rise of LLMs
 
 ## Step 1 — The Visualization
 
