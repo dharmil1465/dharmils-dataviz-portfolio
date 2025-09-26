@@ -45,23 +45,26 @@ Yet in recent years, the once-clear path to the “American Dream” has increas
 
 ## Sketches
 
-1.**H-1B Geography and Employers**: Intro panel showing a U.S. map of top petitioning states and a bar chart of the top 10 employers (e.g., Amazon, TCS, Microsoft, Meta, Apple, Google) to ground the story in where and who drives H-1B demand.
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/f1b610bc-ce25-4e50-bbaa-e3731dc8559e" />
+1. **H-1B Geography and Employers**  
+Intro panel showing a U.S. map of top petitioning states and a bar chart of the top 10 employers (e.g., Amazon, TCS, Microsoft, Meta, Apple, Google) to ground the story in where and who drives H-1B demand.  
+![H-1B Geography and Employers](https://github.com/user-attachments/assets/f1b610bc-ce25-4e50-bbaa-e3731dc8559e)
 
-2. **Tech vs Overall Job Postings**: Line chart indexed to 2020 (Tech ↓36%, Overall ↑4%).  
-![WhatsApp Image 2025-09-25 at 10 39 15 PM](https://github.com/user-attachments/assets/25e456e4-f09f-4a2a-bedf-860d9fbd002d)
+2. **Tech vs Overall Job Postings**  
+Line chart indexed to 2020 (Tech ↓36%, Overall ↑4%).  
+![Tech vs Overall Job Postings 1](https://github.com/user-attachments/assets/25e456e4-f09f-4a2a-bedf-860d9fbd002d)  
+![Tech vs Overall Job Postings 2](https://github.com/user-attachments/assets/361c0110-45df-4ebd-9be1-0bd232a6346d)
 
+3. **Sectoral Winners and Losers**  
+Small multiples showing growth vs. decline industries.  
+![Sectoral Winners and Losers](https://github.com/user-attachments/assets/c7764f4f-459c-402b-a212-4066c598dcce)
 
-![WhatsApp Image 2025-09-25 at 10 39 15 PM (1)](https://github.com/user-attachments/assets/361c0110-45df-4ebd-9be1-0bd232a6346d)
+4. **H-1B Lottery Funnel**  
+Bar chart of applications vs. 85k cap in 2025.  
+![H-1B Lottery Funnel](https://github.com/user-attachments/assets/c2ddb764-19ce-4cce-8f72-6162809fcc90)
 
-3. **Sectoral Winners and Losers**: Small multiples showing growth vs. decline industries.
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/c7764f4f-459c-402b-a212-4066c598dcce" />
-  
-4. **H-1B Lottery Funnel**: Bar chart of applications vs. 85k cap in 2025.
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/c2ddb764-19ce-4cce-8f72-6162809fcc90" />
-
-5. **Student Enrollment Trends**: Stacked bars showing Graduate, Undergraduate, OPT, Non-degree populations (2022/23 → 2023/24).
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/700949fc-589c-458b-ad78-21d860747a62" />
+5. **Student Enrollment Trends**  
+Stacked bars showing Graduate, Undergraduate, OPT, Non-degree populations (2022/23 → 2023/24).  
+![Student Enrollment Trends](https://github.com/user-attachments/assets/700949fc-589c-458b-ad78-21d860747a62)
 
 
 ---
