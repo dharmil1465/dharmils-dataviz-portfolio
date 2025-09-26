@@ -67,8 +67,6 @@ Yet in recent years, the once-clear path to the “American Dream” has increas
 
 ## References / Case Study Video
 - *“The American Dream or Nightmare?”* [YouTube video](https://www.youtube.com/watch?v=MzWBC_uY6hE) — used as a narrative source and visual reference for early chart ideas.
-  
-## Data
 
 ## Data
 
@@ -76,7 +74,9 @@ Yet in recent years, the once-clear path to the “American Dream” has increas
 
 - **USCIS H-1B Employer Data Hub**  
   → Shows where H-1B jobs are concentrated geographically and which employers hire the most (e.g., Amazon, TCS, Microsoft, Meta, Apple, Google).  
-  [USCIS Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)  
+  [USCIS Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)
+  [Google Sheet (prepared dataset)]
+  (https://docs.google.com/spreadsheets/d/1l0l1DUGfA-EeLCHZwqLdlLsyKQj899bs2A5xkVchTsY/edit?gid=0#gid=0)
 
 - **Indeed Hiring Lab Reports (July 2025)**  
   → Charts job posting trends, highlighting the tech slowdown and uneven sectoral growth.  
@@ -88,7 +88,9 @@ Yet in recent years, the once-clear path to the “American Dream” has increas
 
 - **Unemployment Rates by Ethnicity (U.S. Census / BLS)**  
   → Used for contextualizing labor market disparities by demographic group.  
-  [Google Sheet (prepared dataset)](https://docs.google.com/spreadsheets/d/1HuOsdT7foYOGhb6B6XRmRs48JtPGvlriYHD0CzrDNo/edit?gid=0#gid=0)
+  [Google Sheet (prepared dataset)]
+  (https://docs.google.com/spreadsheets/d/1HuOsdT7foYOGhb6B6XRMmRs48JtPGvIriYHD0CzrDNo/edit?gid=0#gid=0)
+  
   
 
 ### Usage
