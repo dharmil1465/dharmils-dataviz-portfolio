@@ -49,7 +49,8 @@ Yet in recent years, the once-clear path to the “American Dream” has increas
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/f1b610bc-ce25-4e50-bbaa-e3731dc8559e" />
 
 2. **Tech vs Overall Job Postings**: Line chart indexed to 2020 (Tech ↓36%, Overall ↑4%).  
-![WhatsApp Image 2025-09-25 at 10 39 15 PM](https://github.com/user-attachments/assets/21f32969-3cf7-4bed-89e5-cc68c64dd806)
+![WhatsApp Image 2025-09-25 at 10 39 15 PM](https://github.com/user-attachments/assets/25e456e4-f09f-4a2a-bedf-860d9fbd002d)
+
 
 ![WhatsApp Image 2025-09-25 at 10 39 15 PM (1)](https://github.com/user-attachments/assets/361c0110-45df-4ebd-9be1-0bd232a6346d)
 
