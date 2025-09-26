@@ -70,17 +70,26 @@ Yet in recent years, the once-clear path to the “American Dream” has increas
   
 ## Data
 
+## Data
+
 ### Primary Sources
-- **USCIS H-1B Employer Data Hub** → to show where H-1B jobs are concentrated geographically and which employers hire the most (e.g., Amazon, TCS, Microsoft, Meta, Apple, Google).
--  https://docs.google.com/spreadsheets/d/1l0l1DUGfA-EeLCHZwqLdlLsyKQj899bs2A5xkVchTsY/edit?gid=0#gid=0
--  
-- **Indeed Hiring Lab Reports (July 2025)** → to chart job posting trends (tech slowdown, sector winners/losers).
+
+- **USCIS H-1B Employer Data Hub**  
+  → Shows where H-1B jobs are concentrated geographically and which employers hire the most (e.g., Amazon, TCS, Microsoft, Meta, Apple, Google).  
+  [USCIS Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)  
+
+- **Indeed Hiring Lab Reports (July 2025)**  
+  → Charts job posting trends, highlighting the tech slowdown and uneven sectoral growth.  
+  [Indeed Hiring Lab](https://www.hiringlab.org)  
+
+- **Open Doors Report 2023/24 (IIE)**  
+  → Provides student enrollment data across academic levels (Graduate, Undergraduate, OPT, Non-degree).  
+  [Download dataset](https://opendoorsdata.org/?download=https://opendoorsdata.org/wp-content/uploads/2024/11/Census_Academic-Level_OD24_Website.xlsx)  
+
+- **Unemployment Rates by Ethnicity (U.S. Census / BLS)**  
+  → Used for contextualizing labor market disparities by demographic group.  
+  [Google Sheet (prepared dataset)](https://docs.google.com/spreadsheets/d/1HuOsdT7foYOGhb6B6XRmRs48JtPGvlriYHD0CzrDNo/edit?gid=0#gid=0)
   
-- **Open Doors Report 2023/24 (IIE)** → to chart student data.
-- https://opendoorsdata.org/?download=https://opendoorsdata.org/wp-content/uploads/2024/11/Census_Academic-Level_OD24_Website.xlsx
-  
-- **Unemployment rates, by ethnicity**
-- https://docs.google.com/spreadsheets/d/1HuOsdT7foYOGhb6B6XRMmRs48JtPGvIriYHD0CzrDNo/edit?gid=0#gid=0 
 
 ### Usage
 - Cap statistics → build the funnel chart.  
