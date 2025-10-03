@@ -41,7 +41,6 @@ This suggests opportunities are shifting across sectors, not vanishing.
 ---
 
 ## 4. H-1B Today: Where the Jobs Are
-![Top employers bar chart](./images/top_employers.png)  
 - Amazon (10,044 approvals) dominates, followed by TCS (5,505), Microsoft (5,189), Meta (5,123), Apple (4,202), Google (4,181).  
 - Highlights reliance on both U.S. tech firms and Indian IT service companies.
 <img width="883" height="358" alt="image" src="https://github.com/user-attachments/assets/11933afd-57ac-4f0c-8f37-d995f454a3ee" />
