@@ -1,68 +1,129 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Wireframes / Storyboards
 
-Text here!
+Using the sketches developed in Part I, I expanded them into **wireframes and draft visualizations** that map directly to the story arc:
 
-# User research 
+## 1. Roadmap: The Student Journey
+We begin with a simple roadmap visualization that outlines the path of an international student:
+- Graduate in India → Master’s in the U.S. → STEM OPT → H-1B Through a Job → Green Card → Permanent Life in America.  
+This roadmap sets context for our audience, many of whom are students, by showing how education, work authorization, and visas connect.
+<img width="1633" height="810" alt="image" src="https://github.com/user-attachments/assets/b0351369-ba5b-4eee-8500-7a22e2dbdf01" />
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+---
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+## 2. Job Market Dynamics
+### A. Tech vs. Overall Job Postings
 
-Text here!
+- Tech postings fell **36%** since 2020.  
+- Overall job postings still grew **+4%**, highlighting an uneven market.  
+This sets the stage: it feels harder to get jobs in tech, but the story doesn’t end here
+<img width="901" height="457" alt="image" src="https://github.com/user-attachments/assets/3c42cd9b-1ee4-4f7f-ba98-5d852b303abd" />
+
+
+
+### B. Sectoral Winners and Losers
+- Declining: Pharma (−28.1%), Manufacturing (−21.8%), Electrical & Industrial Engineering.  
+- Growing: Chemical Engineering (+25.8%), Beauty & Wellness (+5.8%), Sports (+3.9%), Finance (+3.3%), Logistics (+0.5%).  
+This suggests opportunities are shifting across sectors, not vanishing.
+
+---
+
+## 3. Immigration Deadlock
+### A. H-1B Applications vs. Approvals 
+- FY2025: **440,000 applications** vs. only **85,000 visas issued**.  
+- A lottery system makes the journey uncertain, regardless of skill.  
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fc0be0ec-515c-44be-896e-50e76a21889c" />
+
+---
+
+## 4. H-1B Today: Where the Jobs Are
+![Top employers bar chart](./images/top_employers.png)  
+- Amazon (10,044 approvals) dominates, followed by TCS (5,505), Microsoft (5,189), Meta (5,123), Apple (4,202), Google (4,181).  
+- Highlights reliance on both U.S. tech firms and Indian IT service companies.
+<img width="883" height="358" alt="image" src="https://github.com/user-attachments/assets/11933afd-57ac-4f0c-8f37-d995f454a3ee" />
+
+
+---
+
+## 5. Student Enrollment and Impact
+![Enrollment chart](./images/enrollment_trends.png)  
+- **Graduate students**: 502,291 (+8%, record high).  
+- **OPT participants**: 242,782 (+22%, record high).  
+- **Undergraduate students**: 342,875 (−1%).  
+- **Non-degree students**: 38,742 (−12%).  
+Despite uncertainty, demand from international students continues to rise—especially in graduate and OPT pathways.  
+<img width="975" height="501" alt="image" src="https://github.com/user-attachments/assets/a26da4c8-fc3a-4a25-ab19-0bcc7501bb80" />
+
+---
+
+## Draft Narrative Flow (for Shorthand)
+- **Context:** Student roadmap (personalizes journey).  
+- **Challenge 1:** Tech slowdown (is it harder for everyone?).  
+- **Challenge 2:** Uneven industry trends (some shrinking, others growing).  
+- **Challenge 3:** H-1B bottleneck (lottery system, systemic deadlock).  
+- **Challenge 4:** Where the jobs are (top employers, concentrated demand).  
+- **Closing:** Enrollment resilience (students still choosing U.S., but facing uncertainty).  
+
+
+---
+
+# User Research
+
+## Target Audience
+The intended audience for this project is **graduate students, international job seekers, and general readers interested in U.S. immigration policy**.  
+
+For user testing, I recruited three representative individuals:  
+- **Interviewee 1 (mid-20s):** A current master’s student in the U.S. exploring OPT → H-1B transition.  
+- **Interviewee 2 (late-20s):** An Indian professional currently working in the U.S. on OPT.  
+- **Interviewee 3 (early-30s):** A peer with no visa background, representing the general policy-aware reader.  
+
+This group ensured feedback captured both *lived experience* and *outside perspective*.
+
+---
+
+## Interview Script
+
+**Goal:** Test clarity, flow, and emotional resonance of the storyboards.  
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Gauge clarity of intro | What story do you perceive from the opening map and employer chart? |
+| Evaluate job postings line chart | Is the drop vs. growth trend clear? What confuses you? |
+| Assess lottery funnel impact | Does the funnel visualization effectively communicate the challenge? |
+| Check enrollment trends | Do the stacked bars make sense? Is labeling clear? |
+| Identify strong/weak visuals | Which chart felt most impactful? Least impactful? Why? |
+| Collect improvement ideas | What would make the visuals easier to understand? |
 
+---
 
-Text here!
+## Interview Findings
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+**Summary of Insights:**  
+- The intro visuals (map + employers) were widely understood as showing **where and who benefits**.  
+- The lottery funnel resonated strongly; users described it as “eye-opening” and “unfair but real.”  
+- The job postings chart needed more **direct labels** to highlight the 36% vs 4% difference.  
+- Student enrollment trends were engaging, but interviewees requested clearer color differentiation and year labels.  
 
-Text here!
+**Detailed Table:**
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions | Interview 1 (Grad student) | Interview 2 (OPT professional) | Interview 3 (General reader) |
+|-----------|-----------------------------|--------------------------------|-------------------------------|
+| What story did you get from the intro map/employers? | “Clear — Amazon/TCS dominate, California & Texas lead.” | “Feels accurate, makes me think of job distribution.” | “Got it right away — certain states/companies control this space.” |
+| Job postings clarity | “Numbers were visible but needed annotation.” | “I didn’t realize how steep −36% was until told.” | “Trend was clear, but labels would help.” |
+| Lottery funnel reaction | “Scary but real — my situation exactly.” | “Yes, this shows how broken the system is.” | “It felt unfair even as an outsider.” |
+| Enrollment bars | “Colors too similar, but trend obvious.” | “OPT growth jumped out.” | “Confused by academic year labeling.” |
+| Most impactful | “Lottery funnel.” | “OPT chart — resonates.” | “Lottery funnel.” |
+| Suggestions | “More context captions.” | “Show OPT vs H-1B pipeline connection.” | “Simplify by cutting one chart.” |
 
+**Planned Changes for Part III:**  
+- Add direct **annotations (% drop, % growth)** to job postings chart.  
+- Revise color palette for **enrollment levels** (clearer separation).  
+- Add **absolute value labels** for OPT totals.  
+- Explore side-by-side student comparison (India vs China) if scope permits.  
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+---
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+# AI Acknowledgements
+I used ChatGPT (OpenAI) to help refine my storyboard structure, draft the user interview script, and format the findings table. Narrative inspiration came from the YouTube video [The American Dream or Nightmare?](https://www.youtube.com/watch?v=MzWBC_uY6hE), but all visualizations are re-created using official public data (USCIS, Indeed, Open Doors).
