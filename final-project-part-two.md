@@ -48,7 +48,6 @@ This suggests opportunities are shifting across sectors, not vanishing.
 ---
 
 ## 5. Student Enrollment and Impact
-![Enrollment chart](./images/enrollment_trends.png)  
 - **Graduate students**: 502,291 (+8%, record high).  
 - **OPT participants**: 242,782 (+22%, record high).  
 - **Undergraduate students**: 342,875 (−1%).  
@@ -110,12 +109,14 @@ This group ensured feedback captured both *lived experience* and *outside perspe
 
 | Questions | Interview 1 (Grad student) | Interview 2 (OPT professional) | Interview 3 (General reader) |
 |-----------|-----------------------------|--------------------------------|-------------------------------|
-| What story did you get from the intro map/employers? | “Clear — Amazon/TCS dominate, California & Texas lead.” | “Feels accurate, makes me think of job distribution.” | “Got it right away — certain states/companies control this space.” |
-| Job postings clarity | “Numbers were visible but needed annotation.” | “I didn’t realize how steep −36% was until told.” | “Trend was clear, but labels would help.” |
-| Lottery funnel reaction | “Scary but real — my situation exactly.” | “Yes, this shows how broken the system is.” | “It felt unfair even as an outsider.” |
-| Enrollment bars | “Colors too similar, but trend obvious.” | “OPT growth jumped out.” | “Confused by academic year labeling.” |
-| Most impactful | “Lottery funnel.” | “OPT chart — resonates.” | “Lottery funnel.” |
-| Suggestions | “More context captions.” | “Show OPT vs H-1B pipeline connection.” | “Simplify by cutting one chart.” |
+| Roadmap (student journey) | “Helpful to see the full path—it makes it personal.” | “Accurate representation of my own process.” | “Now I get how visas and work steps connect.” |
+| Job postings (tech vs overall) | “I noticed the steep tech drop, but the labels could be bigger.” | “Resonated—my field feels much tighter now.” | “Clear enough, but I needed context on why overall stayed positive.” |
+| Industry shifts (winners/losers) | “Interesting—hadn’t thought of beauty & wellness or logistics as growth areas.” | “Finance and logistics make sense, that’s where hiring is.” | “The table is a bit text-heavy, maybe a chart would pop more.” |
+| H-1B applications vs approvals | “The funnel hit me—it shows how stacked the odds are.” | “Exactly what my peers are facing, felt very real.” | “Lottery idea clicked immediately, unfair but memorable.” |
+| Top employers | “Amazon and TCS dominating wasn’t surprising, but seeing numbers was.” | “Good to see Indian IT companies included—it reflects reality.” | “The names gave credibility—felt data-driven.” |
+| Enrollment trends | “Graduate growth was encouraging but colors need clearer separation.” | “OPT rise stood out—I’m in that group.” | “Confusing at first with four lines, but overall message was clear.” |
+| Most impactful | “Lottery funnel.” | “OPT growth chart.” | “Roadmap + funnel combination.” |
+| Suggestions | “More annotation on % changes.” | “Link OPT growth to H-1B bottleneck explicitly.” | “Simplify table into a small multiples chart.” |
 
 **Planned Changes for Part III:**  
 - Add direct **annotations (% drop, % growth)** to job postings chart.  
