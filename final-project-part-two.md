@@ -4,6 +4,8 @@
 
 Using the sketches developed in Part I, I expanded them into **wireframes and draft visualizations** that map directly to the story arc:
 
+**Draft Shorthand story (preview): [H-1B: A Student’s Journey Through the Funnel](https://preview.shorthand.com/RQ1P0t8PKDw5pOo0)**
+
 ## 1. Roadmap: The Student Journey
 We begin with a simple roadmap visualization that outlines the path of an international student:
 - Graduate in India → Master’s in the U.S. → STEM OPT → H-1B Through a Job → Green Card → Permanent Life in America.  
